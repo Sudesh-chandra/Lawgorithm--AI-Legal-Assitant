@@ -83,17 +83,18 @@ cd legal-documentation-assistant
 -------------------------
 ▶️ Backend Setup
 
-cd server
-npm install
-npm start
+cd server;
+npm install;
+npm start;
+-------------------------
 Make sure you add your .env file with:
 
-OPENAI_API_KEY
-MONGO_URI
-PORT
+OPENAI_API_KEY;
+MONGO_URI;
+PORT;
 ---------------------------
 🖥 Frontend Setup
-cd client
-npm install
-npm start
-Edit the API base URL in api.js if needed.
+cd client;
+npm install;
+npm start;
+Edit the API base URL in api.js if needed.;
