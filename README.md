@@ -38,12 +38,12 @@ Together, these modules offer fast, accurate, and accessible legal support.
 
 🧰 Tech Stack
 Layer	Technology
-Frontend - 	React.js, TailwindCSS
-Backend - 	Node.js, Express.js
-AI Integration	- OpenAI GPT (Chatbot, drafting)
-Database - 	MongoDB
-Document Gen	- PDFKit, DOCX Template Engine
-Authentication - Firebase/Auth0
+Frontend - 	React.js, TailwindCSS ; 
+Backend - 	Node.js, Express.js;
+AI Integration	- OpenAI GPT (Chatbot, drafting);
+Database - 	MongoDB;
+Document Gen	- PDFKit, DOCX Template Engine;
+Authentication - Firebase/Auth0;
 
 ![Screenshot 2025-05-29 110323](https://github.com/user-attachments/assets/0cf905d9-d1c9-48d1-aa2c-45121560523d)
 ![Screenshot 2025-05-29 110345](https://github.com/user-attachments/assets/cf8a6548-16bc-4647-8688-516d45ce6948)
@@ -80,6 +80,7 @@ Clone the project:
 
 git clone https://github.com/vsudeshchandra/PROJECT-NAME.git
 cd legal-documentation-assistant
+-------------------------
 ▶️ Backend Setup
 
 cd server
@@ -90,7 +91,7 @@ Make sure you add your .env file with:
 OPENAI_API_KEY
 MONGO_URI
 PORT
-
+---------------------------
 🖥 Frontend Setup
 cd client
 npm install
