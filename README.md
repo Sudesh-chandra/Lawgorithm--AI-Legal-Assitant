@@ -80,20 +80,21 @@ Clone the project:
 
 git clone https://github.com/vsudeshchandra/PROJECT-NAME.git
 cd legal-documentation-assistant
--------------------------
-▶️ Backend Setup
 
+▶️ Backend Setup
+-------------------------
 cd server;
 npm install;
 npm start;
--------------------------
-Make sure you add your .env file with:
 
+Make sure you add your .env file with:
+-------------------------
 OPENAI_API_KEY;
 MONGO_URI;
 PORT;
----------------------------
+
 🖥 Frontend Setup
+---------------------------
 cd client;
 npm install;
 npm start;
