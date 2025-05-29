@@ -1,7 +1,9 @@
 ⚖️ Lawgorithm – Legal Documentation Assistant
+---------------------------
 Your one-stop platform for smart legal document generation, expert legal guidance, and AI-powered chat support — built to simplify legal workflows for individuals and businesses.
 
 🧩 Problem Statement
+---------------------------
 Legal documentation is often a slow, expensive, and confusing process. Many individuals and businesses struggle with:
 Understanding legal terminology.
 Finding the right document templates.
@@ -10,6 +12,7 @@ Customizing contracts based on roles like HR, SEO, or Accounting.
 Lawgorithm solves this by combining AI, automation, and legal networks to deliver accurate, personalized legal documentation — in minutes, not days.
 
 💡 Approach & Solution
+---------------------------
 We designed Lawgorithm to be modular, user-friendly, and legally aware. Our solution consists of three main pillars:
 Document Generator
 Users select a role (e.g., HR, Accountant).
@@ -17,16 +20,19 @@ Input context via a smart form.
 AI generates a tailored legal document in PDF/DOCX format.
 
 AI Chatbot Assistant
+---------------------------
 Powered by GPT.
 Helps users understand documents.
 Explains legal terms, formats, and suggestions.
 
 Lawyer Connect (Corner of Experts)
+---------------------------
 Curated network of legal advisors.
 Users can reach out directly for legal reviews or advanced help.
 Together, these modules offer fast, accurate, and accessible legal support.
 
 ✨ Features
+---------------------------
 🔠 Role-Based Document Templates (HR, SEO, Finance, etc.)
 💬 AI Chatbot to assist in drafting and legal Q&A.
 📄 PDF/DOCX Document Generation
@@ -37,6 +43,7 @@ Together, these modules offer fast, accurate, and accessible legal support.
 🎯 Error handling, validations & smooth UX flow
 
 🧰 Tech Stack
+---------------------------
 Layer	Technology
 Frontend - 	React.js, TailwindCSS ; 
 Backend - 	Node.js, Express.js;
@@ -54,6 +61,7 @@ Authentication - Firebase/Auth0;
 
 
 User Interaction :
+---------------------------
 User Visits Homepage
 Views landing page with introduction and options.
 Selects Role or Use Case
@@ -76,6 +84,7 @@ Initiates secure communication.
 
 
 ⚙️ Run Instructions
+---------------------------
 Clone the project:
 
 git clone https://github.com/vsudeshchandra/PROJECT-NAME.git
